@@ -1,4 +1,4 @@
-# Drupal 10 Architecture - Technical Demonstration Website
+# Drupal 10 Architecture - Technical Demo Website
 
 ![Drupal Version](https://img.shields.io/badge/Drupal-10.1+-blue.svg?logo=drupal)
 ![Environment](https://img.shields.io/badge/Environment-DDEV-orange.svg?logo=docker)
