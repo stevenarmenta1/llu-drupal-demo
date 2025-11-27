@@ -62,4 +62,4 @@ To spin up this project locally, ensure you have **Docker Desktop** and **DDEV**
 * `/config/sync/`: Configuration management YAML files.
 
 ## 👤 Author
-**[Steven Ray Armenta]** *Aspiring Full Stack Developer for Loma Linda University* https://www.linkedin.com/in/stevenarmenta/
+**[Steven Ray Armenta]** * Software Developer* https://www.linkedin.com/in/stevenarmenta/
