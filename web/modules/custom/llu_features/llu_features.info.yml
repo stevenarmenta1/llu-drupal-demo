@@ -1,0 +1,5 @@
+name: "LLU Features"
+type: module
+description: "Custom features for the LLU demo website including custom blocks."
+core_version_requirement: ^10 || ^11
+package: Custom
